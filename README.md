@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full stack engineer
 -------------------
 
-I have developed a couple of projects, there are websites using HTML, CSS, and javascript, (https://optimistic-wilson-c6ff57.netlify.app/index.html) this being one of my first websites. applications using python, java, c++, and c# interacted with multiple libraries from these languages such as the JUnit, Jswing, OpenGL, and others
+I have developed a couple of projects, there are websites using HTML, CSS, and javascript. applications using python, java, c++, and c# interacted with multiple libraries from these languages such as the JUnit, Jswing, OpenGL, and others
 
 * 🌍  I'm based in Nairobi - Kenya(🇰🇪)
 * ✉️  You can contact me at [Nabothtieng@gmail.com](mailto:Nabothtieng@gmail.com)
