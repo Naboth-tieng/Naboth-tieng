@@ -4,13 +4,13 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full stack engineer
 -------------------
 
-I have developed a couple of projects, there are websites using HTML, CSS, and javascript. applications using python, java, c++, and c# interacted with multiple libraries from these languages such as the JUnit, Jswing, OpenGL, and others
+I have developed a couple of projects, there are websites using HTML, CSS, and javascript. applications using Python, java, C++, and c# interacted with multiple libraries from these languages such as the JUnit, Jswing, OpenGL, and others
 
 * 🌍  I'm based in Nairobi - Kenya(🇰🇪)
 * ✉️  You can contact me at [Nabothtieng@gmail.com](mailto:Nabothtieng@gmail.com)
-* 🧠  I'm learning android development
+* 🧠  I'm learning pipeline  development
 * 🤝  I'm open to collaborating on software projects that will challenge me mentally
-* ⚡  I'm secretly an agent like James bond but dont tell anyone
+* ⚡  I'm secretly an agent like James Bond but don't tell anyone
 
 ### Skills
 
